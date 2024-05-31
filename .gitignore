@@ -1,0 +1,8 @@
+cache
+csvdump
+Marlene_netcdf
+netcdf_files
+*.csv
+*.pkl
+__pycache__
+.venv
