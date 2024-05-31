@@ -6,3 +6,4 @@ netcdf_files
 *.pkl
 __pycache__
 .venv
+.env
